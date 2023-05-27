@@ -11,7 +11,7 @@ class basicdetails{
 		int vehicle_no;
 		void getdata()
 		{  
-		    cout<<"Enter the owner name : ";
+		    cout<<"Enter the owner Full Name: ";
 		    cin>>name;
 			cout<<"Enter the vehicle number : ";
 			cin>>vehicle_no;
